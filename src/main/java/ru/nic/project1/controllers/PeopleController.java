@@ -1,2 +1,4 @@
-package ru.nic.project1.controllers;public class PeopleController {
+package ru.nic.project1.controllers;
+
+public class PeopleController {
 }

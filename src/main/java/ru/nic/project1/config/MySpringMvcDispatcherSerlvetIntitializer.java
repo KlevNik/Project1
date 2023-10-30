@@ -1,2 +1,4 @@
-package ru.nic.project1.config;public class MySpringMvcDispatcherSerlvetIntitializer {
+package ru.nic.project1.config;
+
+public class MySpringMvcDispatcherSerlvetIntitializer {
 }

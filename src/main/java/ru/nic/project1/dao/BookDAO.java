@@ -1,2 +1,4 @@
-package ru.nic.project1.dao;public class BookDAO {
+package ru.nic.project1.dao;
+
+public class BookDAO {
 }

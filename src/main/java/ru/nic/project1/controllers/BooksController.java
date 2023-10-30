@@ -1,2 +1,4 @@
-package ru.nic.project1.controllers;public class BooksController {
+package ru.nic.project1.controllers;
+
+public class BooksController {
 }
